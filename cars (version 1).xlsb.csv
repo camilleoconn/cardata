@@ -1,4 +1,4 @@
-Make,Price,City Mpg,Hwy Mpg,Horsepower,Curb Weight,Combined Mpg
+Make,Price,City.mpg,Hwy.mpg,Horsepower,Curb.weight,Combined.mpg
 Acura,28100,25,35,201,3093,29
 Audi,31950,25,33,186,3439,28
 BMW,34900,23,35,180,3370,27
